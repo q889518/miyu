@@ -35,7 +35,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>x1145utzgh1iz7xrumsk</string>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
